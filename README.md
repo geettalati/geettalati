@@ -23,17 +23,18 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=geettalati&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
 
-### `< whoami />`
+## 👨‍💻 About Me
 
-```typescript
-const geettalati = {
-  role     : "Full Stack + AI/ML Engineer",
-  location : "India 🇮🇳",
-  stack    : ["Python", "TypeScript", "React", "Docker"],
-  domains  : ["Real-time Systems", "LLMs", "Fintech AI"],
-  status   : "🟢 Open to opportunities",
-  motto    : "Ship fast. Think deep. Build real."
-}
+**Full Stack Developer & AI/ML Engineer** based in India 🇮🇳
+
+I build across the full stack — clean frontends, solid backends, and intelligent systems that go beyond standard CRUD. I enjoy turning complex problems into simple, well-engineered solutions.
+
+- 🛠️ Stack: Python · TypeScript · React · FastAPI · Docker
+- 🌱 Currently exploring: LLMs, real-time systems, ML in production
+- 💼 Status: **Open to full-time & internship roles**
+- 📍 Available for remote · Based in India
+
+---
 ```
 
 I don't just build apps — I build **systems**.  
