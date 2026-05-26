@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geet-talati-868851285/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geet14talati@gmal.com)
-[![Resume](https://img.shields.io/badge/Resume-%23F59E0B.svg?style=for-the-badge&logo=googledrive&logoColor=white)](# https://drive.google.com/file/d/12jxyKA7bXcFMql6fTlng_OcvatzJVEHB/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-%23F59E0B.svg?style=for-the-badge&logo=googledrive&logoColor=white)](#https://drive.google.com/file/d/12jxyKA7bXcFMql6fTlng_OcvatzJVEHB/view?usp=sharing)
 
 </div>
 
