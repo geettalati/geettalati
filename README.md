@@ -5,15 +5,15 @@
 <br/>
 
 <a href="https://github.com/geettalati">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Building+systems+that+think+%F0%9F%A7%A0;Real-time+ML+%C2%B7+Full+Stack+%C2%B7+AI+Pipelines;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Docker;Open+to+opportunities+%E2%80%94+Let%27s+build+something." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Building+systems+that+think+%F0%9F%A7%A0;Full+Stack+%C2%B7+AI%2FML+%C2%B7+Real-time+Systems;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Docker;Open+to+opportunities+%E2%80%94+Let%27s+build+something." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geet-talati-868851285/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geet14talati@gmal.com)
-[![Resume](https://img.shields.io/badge/Resume-%23F59E0B.svg?style=for-the-badge&logo=googledrive&logoColor=white)](#https://drive.google.com/file/d/12jxyKA7bXcFMql6fTlng_OcvatzJVEHB/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geet14talati@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-%23F59E0B.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12jxyKA7bXcFMql6fTlng_OcvatzJVEHB/view?usp=sharing)
 
 </div>
 
@@ -34,12 +34,6 @@ I build across the full stack — clean frontends, solid backends, and intellige
 - 💼 Status: **Open to full-time & internship roles**
 - 📍 Available for remote · Based in India
 
----
-```
-
-I don't just build apps — I build **systems**.  
-From real-time fraud detection engines to AI-powered creative tools, my work lives at the intersection of **intelligent backends** and **clean frontends**.
-
 <br clear="right"/>
 
 ---
@@ -55,9 +49,8 @@ From real-time fraud detection engines to AI-powered creative tools, my work liv
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Real-time credit risk scoring system built for India's UPI ecosystem. Ingests live transaction data, applies rule-based risk models, and serves scores through a REST API — the kind of pipeline fintech companies actually ship.
+Real-time credit risk scoring system for India's UPI ecosystem. Ingests live transaction data, applies rule-based risk models, and serves scores through a REST API.
 
-**Highlights:**
 - 🔄 Real-time transaction scoring pipeline
 - 🚨 Anomaly & fraud signal detection
 - 🐳 Fully containerized with Docker
@@ -72,9 +65,8 @@ Real-time credit risk scoring system built for India's UPI ecosystem. Ingests li
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-AI%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
 
-Generates scroll-stopping YouTube & social media thumbnails using AI image generation APIs. Built end-to-end in TypeScript — shows ability to ship full-stack AI products fast.
+Generates YouTube & social media thumbnails using AI image generation APIs. Built end-to-end in TypeScript.
 
-**Highlights:**
 - 🤖 AI image generation pipeline
 - ⚡ TypeScript full-stack
 - 🎯 Prompt engineering for visual output
@@ -90,18 +82,18 @@ Generates scroll-stopping YouTube & social media thumbnails using AI image gener
 ### ⚡ Parallel Merge Sort
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-Multithreaded merge sort in C++ — demonstrates deep CS fundamentals: thread management, concurrency control, and algorithmic optimization. Signals you know what happens below the framework.
+Multithreaded merge sort in C++ — demonstrates deep CS fundamentals: thread management, concurrency control, and algorithmic optimization.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-%23A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geettalati/Parallel-Merge-Sort-Using-Multithreading)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Chat App + More
+### 💬 More Projects
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Other projects: **Chat App**, **AI Trip Planner**, **Expense Tracker**, **Weather App**, **OMDB Movie Search** — a breadth of full-stack and API-driven work.
+**Chat App**, **AI Trip Planner**, **Expense Tracker**, **Weather App**, **OMDB Movie Search** — a breadth of full-stack and API-driven work.
 
 [![All Repos](https://img.shields.io/badge/All_Repos-%23A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geettalati?tab=repositories)
 
@@ -165,7 +157,7 @@ Other projects: **Chat App**, **AI Trip Planner**, **Expense Tracker**, **Weathe
 
 ### 🤝 Let's Build Something
 
-*I'm actively looking for full-time SDE / AI-ML roles and open to freelance collaborations.*  
+*Actively looking for full-time SDE / AI-ML roles and open to freelance collaborations.*
 *If you're working on something interesting — reach out.*
 
 <br/>
